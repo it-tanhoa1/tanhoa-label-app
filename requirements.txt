@@ -1,6 +1,5 @@
-pymupdf==1.23.26
+pymupdf
 pandas
 reportlab
 Pillow
 streamlit
-openpyxl
