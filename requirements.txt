@@ -1,0 +1,5 @@
+pymupdf
+pandas
+reportlab
+Pillow
+streamlit
